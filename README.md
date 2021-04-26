@@ -7,11 +7,12 @@
 ->Using sklearn to create Naive-Bayes, Logistic Regression and Stochastic Gradient Descent classifiers
 ->Training the models to find the training and test accuracies as well as precision, recall, f1-score and support
 ->The program's purpose is to find the most efficient among the three models.
-<pre>
+</pre>
 
 The output obtained was as follows:
 
-- **Stochastic Gradient Descent Classifier**
+**Stochastic Gradient Descent Classifier**
+<pre>
 Training accuracy Score:  0.9164905119420754
 Test accuracy Score:  0.5650342285413376
                     precision    recall  f1-score   support
@@ -25,9 +26,9 @@ Extremely Positive       0.70      0.65      0.67       642
           accuracy                           0.57      3798
          macro avg       0.59      0.57      0.58      3798
       weighted avg       0.58      0.57      0.57      3798
-<pre>
+</pre>
 
-- **Naive-Bayes Classifier**
+**Naive-Bayes Classifier**
 <pre>
 Training accuracy score:  0.770682994387346
 Test accuracy score:  0.42759347024749866
@@ -43,9 +44,9 @@ Extremely Positive       0.24      0.74      0.36       194
           accuracy                           0.43      3798
          macro avg       0.38      0.57      0.39      3798
       weighted avg       0.57      0.43      0.45      3798
-<pre>
+</pre>
 
-- **Logistic Regression Classifier**
+**Logistic Regression Classifier**
 <pre>
 Training accuracy Score:  0.9553660373690989
 Validation accuracy Score:  0.6024223275408109
@@ -60,4 +61,4 @@ Extremely Positive       0.60      0.71      0.65       503
           accuracy                           0.60      3798
          macro avg       0.61      0.62      0.61      3798
       weighted avg       0.61      0.60      0.60      3798
-<pre>
+</pre>
