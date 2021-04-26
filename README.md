@@ -49,7 +49,7 @@ Extremely Positive       0.24      0.74      0.36       194
 **Logistic Regression Classifier**
 <pre>
 Training accuracy Score:  0.9553660373690989
-Validation accuracy Score:  0.6024223275408109
+Test accuracy Score:  0.6024223275408109
                     precision    recall  f1-score   support
 
 Extremely Negative       0.53      0.65      0.59       487
@@ -61,4 +61,12 @@ Extremely Positive       0.60      0.71      0.65       503
           accuracy                           0.60      3798
          macro avg       0.61      0.62      0.61      3798
       weighted avg       0.61      0.60      0.60      3798
+</pre>
+
+**Comparison:**
+<pre>
+Order of Efficiency            Model                          Test Accuracy
+        1                Logistic Regression                0.6024223275408109
+        2                Stochastic Gradient Descent        0.5650342285413376
+        3                Naive-Bayes                        0.42759347024749866
 </pre>
