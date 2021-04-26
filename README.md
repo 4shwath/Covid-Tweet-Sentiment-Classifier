@@ -11,8 +11,7 @@
 
 The output obtained was as follows:
 
-**Stochastic Gradient Descent Classifier**
-<pre>
+- **Stochastic Gradient Descent Classifier**
 Training accuracy Score:  0.9164905119420754
 Test accuracy Score:  0.5650342285413376
                     precision    recall  f1-score   support
@@ -28,7 +27,7 @@ Extremely Positive       0.70      0.65      0.67       642
       weighted avg       0.58      0.57      0.57      3798
 <pre>
 
-**Naive-Bayes Classifier**
+- **Naive-Bayes Classifier**
 <pre>
 Training accuracy score:  0.770682994387346
 Test accuracy score:  0.42759347024749866
@@ -46,7 +45,7 @@ Extremely Positive       0.24      0.74      0.36       194
       weighted avg       0.57      0.43      0.45      3798
 <pre>
 
-**Logistic Regression Classifier**
+- **Logistic Regression Classifier**
 <pre>
 Training accuracy Score:  0.9553660373690989
 Validation accuracy Score:  0.6024223275408109
