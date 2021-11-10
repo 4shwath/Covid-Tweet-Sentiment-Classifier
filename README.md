@@ -6,7 +6,7 @@
 <pre>
 ->Using sklearn to create Naive-Bayes, Logistic Regression and Stochastic Gradient Descent classifiers
 ->Training the models to find the training and test accuracies as well as precision, recall, f1-score and support
-->The program's purpose is to find the most efficient among the three models.
+->The program's purpose is to find the most efficient among the three models for this task
 </pre>
 
 The output obtained was as follows:
